@@ -2,8 +2,6 @@
 
 Exercice 5
 
-
-
 import courP
 
 help(courP)
@@ -13,6 +11,7 @@ NAME
     courP
 
 FUNCTIONS
+
     ecrire()
     
     lire()
