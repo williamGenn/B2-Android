@@ -1,1 +1,0 @@
-testfonction !get_ipython().kernel.shell.run_line_magic('clear', '')
